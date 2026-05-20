@@ -1,7 +1,7 @@
 [
     {
     "id": "bbc-radio-scotland",
-    "name": "BBC Radio Scotland",
+    "name": "HI BBC Radio Scotland",
     "url": "http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8",
     "genre": "News",
     "country": "UK",
