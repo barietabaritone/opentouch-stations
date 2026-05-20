@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bbc-world-service",
+    "name": "BBC World Service",
+    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "genre": "News",
+    "country": "UK",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/BBC_World_Service.svg/200px-BBC_World_Service.svg.png"
+  },
+  {
+    "id": "jazz-fm",
+    "name": "Jazz FM",
+    "url": "http://edge-bauerall-01-gos2.sharp-stream.com/jazz.mp3",
+    "genre": "Jazz",
+    "country": "UK",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Jazz_FM_UK_logo.svg/200px-Jazz_FM_UK_logo.svg.png"
+  },
+  {
+    "id": "tsf-jazz",
+    "name": "TSF Jazz",
+    "url": "http://tsfjazz.ice.infomaniak.ch:80/tsfjazz-high",
+    "genre": "Jazz",
+    "country": "France",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TSF_Jazz_logo.svg/200px-TSF_Jazz_logo.svg.png"
+  },
+  {
+    "id": "france-inter",
+    "name": "France Inter",
+    "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+    "genre": "Talk",
+    "country": "France",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/France_Inter_logo_2021.svg/200px-France_Inter_logo_2021.svg.png"
+  },
+  {
+    "id": "france-culture",
+    "name": "France Culture",
+    "url": "http://direct.franceculture.fr/live/franceculture-midfi.mp3",
+    "genre": "Talk",
+    "country": "France",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/France_Culture_-_Logo_2021.svg/200px-France_Culture_-_Logo_2021.svg.png"
+  },
+  {
+    "id": "radio-paradise",
+    "name": "Radio Paradise",
+    "url": "http://stream.radioparadise.com/mp3-128",
+    "genre": "Rock",
+    "country": "Global",
+    "logo": "https://www.radioparadise.com/graphics/square_logo.png"
+  },
+  {
+    "id": "radio-paradise-mellow",
+    "name": "Radio Paradise Mellow",
+    "url": "http://stream.radioparadise.com/mellow-128",
+    "genre": "Ambient",
+    "country": "Global",
+    "logo": "https://www.radioparadise.com/graphics/square_logo.png"
+  },
+  {
+    "id": "soma-groove-salad",
+    "name": "SomaFM Groove Salad",
+    "url": "http://ice1.somafm.com/groovesalad-128-mp3",
+    "genre": "Ambient",
+    "country": "Global",
+    "logo": "https://somafm.com/img3/groovesalad-400.jpg"
+  },
+  {
+    "id": "soma-drone-zone",
+    "name": "SomaFM Drone Zone",
+    "url": "http://ice1.somafm.com/dronezone-128-mp3",
+    "genre": "Ambient",
+    "country": "Global",
+    "logo": "https://somafm.com/img3/dronezone-400.jpg"
+  },
+  {
+    "id": "soma-secret-agent",
+    "name": "SomaFM Secret Agent",
+    "url": "http://ice1.somafm.com/secretagent-128-mp3",
+    "genre": "Lounge",
+    "country": "Global",
+    "logo": "https://somafm.com/img3/secretagent-400.jpg"
+  },
+  {
+    "id": "soma-left-coast-70s",
+    "name": "SomaFM Left Coast 70s",
+    "url": "http://ice1.somafm.com/seventies-128-mp3",
+    "genre": "Pop",
+    "country": "Global",
+    "logo": "https://somafm.com/img3/seventies-400.jpg"
+  }
+]
